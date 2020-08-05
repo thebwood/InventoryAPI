@@ -2,7 +2,6 @@ D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\bin\Debug\netcoreap
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\bin\Debug\netcoreapp3.1\Inventory.API.exe
-D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.csprojAssemblyReference.cache
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.AssemblyInfoInputs.cache
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.AssemblyInfo.cs
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.RazorTargetAssemblyInfo.cache
@@ -49,8 +48,13 @@ D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\bin\Debug\netcoreap
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.csproj.CoreCompileInputs.cache
-D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.MvcApplicationPartsAssemblyInfo.cache
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.dll
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.pdb
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.genruntimeconfig.cache
+D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.csproj.CoreCompileInputs.cache
+D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.MvcApplicationPartsAssemblyInfo.cache

@@ -12,6 +12,13 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Domain\Services\Owner\" />
+    <Folder Include="Domain\Services\Shipping\" />
+    <Folder Include="Domain\Services\Order\" />
   </ItemGroup>
 
 
