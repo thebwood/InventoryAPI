@@ -5,10 +5,9 @@ using System.Threading.Tasks;
 
 namespace Inventory.API.Domain.Models
 {
-    public class InventorySearchResultsModel
+    public class ItemTypesModel
     {
-        public long Id { get; set; }
-        public string Description { get; set; }
+        public int Id { get; set; }
         public string ItemType { get; set; }
     }
 }

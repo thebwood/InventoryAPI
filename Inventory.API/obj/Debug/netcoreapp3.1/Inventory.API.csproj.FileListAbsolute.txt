@@ -58,3 +58,4 @@ D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\bin\Debug\netcoreap
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.csproj.CoreCompileInputs.cache
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.MvcApplicationPartsAssemblyInfo.cs
 D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Development\GitHub\Blazor Apps\InventoryAPI\Inventory.API\obj\Debug\netcoreapp3.1\Inventory.API.csprojAssemblyReference.cache

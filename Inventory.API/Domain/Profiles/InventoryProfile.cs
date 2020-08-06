@@ -14,6 +14,7 @@ namespace Inventory.API.Domain.Profiles
         {
             CreateMap<InventoryItemsModel, InventoryItems>();
             CreateMap<InventoryItems, InventoryItemsModel>();
+            CreateMap<ItemTypes, ItemTypesModel>();
         }
     }
 }

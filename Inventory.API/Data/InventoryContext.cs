@@ -18,11 +18,13 @@ namespace Inventory.API.Data
         public virtual DbSet<InventoryConditions> InventoryConditions { get; set; }
         public virtual DbSet<InventoryGame> InventoryGame { get; set; }
         public virtual DbSet<InventoryItems> InventoryItems { get; set; }
+        public virtual DbSet<ItemTypes> ItemTypes { get; set; }
         public virtual DbSet<OrderTypes> OrderTypes { get; set; }
         public virtual DbSet<Orders> Orders { get; set; }
         public virtual DbSet<OwnerTypes> OwnerTypes { get; set; }
         public virtual DbSet<Owners> Owners { get; set; }
         public virtual DbSet<Suppliers> Suppliers { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -48,6 +50,16 @@ namespace Inventory.API.Data
                 entity.Property(e => e.Description)
                     .IsRequired()
                     .HasMaxLength(2000)
+                    .IsUnicode(false);
+            });
+
+            modelBuilder.Entity<ItemTypes>(entity =>
+            {
+                entity.Property(e => e.Id).HasColumnName("ID");
+
+                entity.Property(e => e.ItemType)
+                    .IsRequired()
+                    .HasMaxLength(200)
                     .IsUnicode(false);
             });
 
