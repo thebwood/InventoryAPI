@@ -74,7 +74,7 @@ namespace Inventory.API.Controllers
         [HttpPost]
         [ProducesResponseType(typeof(List<string>), (int)HttpStatusCode.OK)]
         [ProducesResponseType(typeof(List<string>), (int)HttpStatusCode.BadRequest)]
-        public IActionResult UpdatePerson([FromBody] InventoryItemsModel inventory)
+        public IActionResult UpdateInventory([FromBody] InventoryItemsModel inventory)
         {
             var errorList = new List<string>();
 
